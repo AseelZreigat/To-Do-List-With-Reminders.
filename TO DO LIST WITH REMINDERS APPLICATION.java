@@ -6,7 +6,7 @@ import java.awt.event.ActionEvent;
 -----------------------------------------------------
 Mini project: To-Do List Application
 Question: CS 310 - Advanced Programming
-Written by: [Your Name], [Your Student ID]
+Written by : Aseel , Yaqeen , Saja
 -----------------------------------------------------
 This program allows users to manage their tasks by adding, viewing, editing, and deleting them efficiently.
 */
